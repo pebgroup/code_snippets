@@ -2,7 +2,7 @@
 Collection of code snippets with high re-usage potential
 
 # Instuctions
-If you enter a new code script here, please add it to this list including name, language, purpose and author.
+If you add a new code script, please add it to this list here including name, language, purpose and author.
 
 
 file name                 | language   | purpose                                                  | author
